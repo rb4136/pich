@@ -1,0 +1,26 @@
+.home {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.home-content {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.home-content img {
+  width: 100%;
+  border-radius: 50%;
+}
+
+.home-form {
+  background-color: #7ac7c4;
+  margin-left: calc((100vw - 100%) / -2);
+  margin-right: calc((100vw - 100%) / -2);
+  padding-left: calc((100vw - 100%) / 2);
+  padding-right: calc((100vw - 100%) / 2);
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
